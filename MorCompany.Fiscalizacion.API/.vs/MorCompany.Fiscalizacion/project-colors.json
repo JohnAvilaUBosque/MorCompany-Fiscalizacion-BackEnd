@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "86b0fe7a-281c-4b06-8050-2af0dee6644e": {
+      "ProjectGuid": "86b0fe7a-281c-4b06-8050-2af0dee6644e",
+      "DisplayName": "MorCompany.Fiscalizacion.API",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "1d1d5312-6724-497b-aa0b-a6f433d4116f": {
+      "ProjectGuid": "1d1d5312-6724-497b-aa0b-a6f433d4116f",
+      "DisplayName": "MorCompany.Fiscalizacion.Servicios",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

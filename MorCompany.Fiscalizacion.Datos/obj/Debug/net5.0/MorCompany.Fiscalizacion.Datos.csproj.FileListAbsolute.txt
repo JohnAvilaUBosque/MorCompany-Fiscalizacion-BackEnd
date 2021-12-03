@@ -1,0 +1,15 @@
+D:\Proyectos\MorCompany\MorCompany-Fiscalizacion-BackEnd\MorCompany.Fiscalizacion.Datos\bin\Debug\net5.0\MorCompany.Fiscalizacion.Datos.deps.json
+D:\Proyectos\MorCompany\MorCompany-Fiscalizacion-BackEnd\MorCompany.Fiscalizacion.Datos\bin\Debug\net5.0\MorCompany.Fiscalizacion.Datos.dll
+D:\Proyectos\MorCompany\MorCompany-Fiscalizacion-BackEnd\MorCompany.Fiscalizacion.Datos\bin\Debug\net5.0\ref\MorCompany.Fiscalizacion.Datos.dll
+D:\Proyectos\MorCompany\MorCompany-Fiscalizacion-BackEnd\MorCompany.Fiscalizacion.Datos\bin\Debug\net5.0\MorCompany.Fiscalizacion.Datos.pdb
+D:\Proyectos\MorCompany\MorCompany-Fiscalizacion-BackEnd\MorCompany.Fiscalizacion.Datos\obj\Debug\net5.0\MorCompany.Fiscalizacion.Datos.csproj.AssemblyReference.cache
+D:\Proyectos\MorCompany\MorCompany-Fiscalizacion-BackEnd\MorCompany.Fiscalizacion.Datos\obj\Debug\net5.0\MorCompany.Fiscalizacion.Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\MorCompany\MorCompany-Fiscalizacion-BackEnd\MorCompany.Fiscalizacion.Datos\obj\Debug\net5.0\MorCompany.Fiscalizacion.Datos.AssemblyInfoInputs.cache
+D:\Proyectos\MorCompany\MorCompany-Fiscalizacion-BackEnd\MorCompany.Fiscalizacion.Datos\obj\Debug\net5.0\MorCompany.Fiscalizacion.Datos.AssemblyInfo.cs
+D:\Proyectos\MorCompany\MorCompany-Fiscalizacion-BackEnd\MorCompany.Fiscalizacion.Datos\obj\Debug\net5.0\MorCompany.Fiscalizacion.Datos.csproj.CoreCompileInputs.cache
+D:\Proyectos\MorCompany\MorCompany-Fiscalizacion-BackEnd\MorCompany.Fiscalizacion.Datos\obj\Debug\net5.0\MorCompany.Fiscalizacion.Datos.dll
+D:\Proyectos\MorCompany\MorCompany-Fiscalizacion-BackEnd\MorCompany.Fiscalizacion.Datos\obj\Debug\net5.0\ref\MorCompany.Fiscalizacion.Datos.dll
+D:\Proyectos\MorCompany\MorCompany-Fiscalizacion-BackEnd\MorCompany.Fiscalizacion.Datos\obj\Debug\net5.0\MorCompany.Fiscalizacion.Datos.pdb
+D:\Proyectos\MorCompany\MorCompany-Fiscalizacion-BackEnd\MorCompany.Fiscalizacion.Datos\bin\Debug\net5.0\MorCompany.Fiscalizacion.DTOs.dll
+D:\Proyectos\MorCompany\MorCompany-Fiscalizacion-BackEnd\MorCompany.Fiscalizacion.Datos\bin\Debug\net5.0\MorCompany.Fiscalizacion.DTOs.pdb
+D:\Proyectos\MorCompany\MorCompany-Fiscalizacion-BackEnd\MorCompany.Fiscalizacion.Datos\obj\Debug\net5.0\MorCompany.Fiscalizacion.Datos.csproj.CopyComplete

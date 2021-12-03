@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "P2W4xDD3Cu/rKwMuW5lXKhCxKFe9vewLM5NJmEfkfeYRMxPODN/brgy1rVa/hLhUVYZhxPXhuQ4LxURPCYC6Wg==",
+  "success": true,
+  "projectFilePath": "D:\\Proyectos\\MorCompany\\MorCompany-Fiscalizacion-BackEnd\\MorCompany.Fiscalizacion.Negocio\\MorCompany.Fiscalizacion.Negocio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Moncky\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\Moncky\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Moncky\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Moncky\\.nuget\\packages\\npgsql\\6.0.0\\npgsql.6.0.0.nupkg.sha512",
+    "C:\\Users\\Moncky\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

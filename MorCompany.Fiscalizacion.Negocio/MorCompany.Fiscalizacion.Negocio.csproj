@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MorCompany.Fiscalizacion.Datos\MorCompany.Fiscalizacion.Datos.csproj" />
+    <ProjectReference Include="..\MorCompany.Fiscalizacion.DTOs\MorCompany.Fiscalizacion.DTOs.csproj" />
+    <ProjectReference Include="..\MorCompany.Fiscalizacion.Utilidades\MorCompany.Fiscalizacion.Utilidades.csproj" />
+  </ItemGroup>
+
+</Project>

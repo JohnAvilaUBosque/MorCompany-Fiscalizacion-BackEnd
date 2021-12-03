@@ -1,0 +1,12 @@
+D:\Proyectos\MorCompany\MorCompany-Fiscalizacion-BackEnd\MorCompany.Fiscalizacion.Aplicacion\bin\Debug\net5.0\MorCompany.Fiscalizacion.Dominio.deps.json
+D:\Proyectos\MorCompany\MorCompany-Fiscalizacion-BackEnd\MorCompany.Fiscalizacion.Aplicacion\bin\Debug\net5.0\MorCompany.Fiscalizacion.Dominio.dll
+D:\Proyectos\MorCompany\MorCompany-Fiscalizacion-BackEnd\MorCompany.Fiscalizacion.Aplicacion\bin\Debug\net5.0\ref\MorCompany.Fiscalizacion.Dominio.dll
+D:\Proyectos\MorCompany\MorCompany-Fiscalizacion-BackEnd\MorCompany.Fiscalizacion.Aplicacion\bin\Debug\net5.0\MorCompany.Fiscalizacion.Dominio.pdb
+D:\Proyectos\MorCompany\MorCompany-Fiscalizacion-BackEnd\MorCompany.Fiscalizacion.Aplicacion\obj\Debug\net5.0\MorCompany.Fiscalizacion.Dominio.csproj.AssemblyReference.cache
+D:\Proyectos\MorCompany\MorCompany-Fiscalizacion-BackEnd\MorCompany.Fiscalizacion.Aplicacion\obj\Debug\net5.0\MorCompany.Fiscalizacion.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\MorCompany\MorCompany-Fiscalizacion-BackEnd\MorCompany.Fiscalizacion.Aplicacion\obj\Debug\net5.0\MorCompany.Fiscalizacion.Dominio.AssemblyInfoInputs.cache
+D:\Proyectos\MorCompany\MorCompany-Fiscalizacion-BackEnd\MorCompany.Fiscalizacion.Aplicacion\obj\Debug\net5.0\MorCompany.Fiscalizacion.Dominio.AssemblyInfo.cs
+D:\Proyectos\MorCompany\MorCompany-Fiscalizacion-BackEnd\MorCompany.Fiscalizacion.Aplicacion\obj\Debug\net5.0\MorCompany.Fiscalizacion.Dominio.csproj.CoreCompileInputs.cache
+D:\Proyectos\MorCompany\MorCompany-Fiscalizacion-BackEnd\MorCompany.Fiscalizacion.Aplicacion\obj\Debug\net5.0\MorCompany.Fiscalizacion.Dominio.dll
+D:\Proyectos\MorCompany\MorCompany-Fiscalizacion-BackEnd\MorCompany.Fiscalizacion.Aplicacion\obj\Debug\net5.0\ref\MorCompany.Fiscalizacion.Dominio.dll
+D:\Proyectos\MorCompany\MorCompany-Fiscalizacion-BackEnd\MorCompany.Fiscalizacion.Aplicacion\obj\Debug\net5.0\MorCompany.Fiscalizacion.Dominio.pdb

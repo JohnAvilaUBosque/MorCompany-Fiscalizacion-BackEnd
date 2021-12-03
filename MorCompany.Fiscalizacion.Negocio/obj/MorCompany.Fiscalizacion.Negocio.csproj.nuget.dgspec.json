@@ -1,0 +1,252 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Proyectos\\MorCompany\\MorCompany-Fiscalizacion-BackEnd\\MorCompany.Fiscalizacion.Negocio\\MorCompany.Fiscalizacion.Negocio.csproj": {}
+  },
+  "projects": {
+    "D:\\Proyectos\\MorCompany\\MorCompany-Fiscalizacion-BackEnd\\MorCompany.Fiscalizacion.Datos\\MorCompany.Fiscalizacion.Datos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Proyectos\\MorCompany\\MorCompany-Fiscalizacion-BackEnd\\MorCompany.Fiscalizacion.Datos\\MorCompany.Fiscalizacion.Datos.csproj",
+        "projectName": "MorCompany.Fiscalizacion.Datos",
+        "projectPath": "D:\\Proyectos\\MorCompany\\MorCompany-Fiscalizacion-BackEnd\\MorCompany.Fiscalizacion.Datos\\MorCompany.Fiscalizacion.Datos.csproj",
+        "packagesPath": "C:\\Users\\Moncky\\.nuget\\packages\\",
+        "outputPath": "D:\\Proyectos\\MorCompany\\MorCompany-Fiscalizacion-BackEnd\\MorCompany.Fiscalizacion.Datos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Moncky\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Proyectos\\MorCompany\\MorCompany-Fiscalizacion-BackEnd\\MorCompany.Fiscalizacion.DTOs\\MorCompany.Fiscalizacion.DTOs.csproj": {
+                "projectPath": "D:\\Proyectos\\MorCompany\\MorCompany-Fiscalizacion-BackEnd\\MorCompany.Fiscalizacion.DTOs\\MorCompany.Fiscalizacion.DTOs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Proyectos\\MorCompany\\MorCompany-Fiscalizacion-BackEnd\\MorCompany.Fiscalizacion.DTOs\\MorCompany.Fiscalizacion.DTOs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Proyectos\\MorCompany\\MorCompany-Fiscalizacion-BackEnd\\MorCompany.Fiscalizacion.DTOs\\MorCompany.Fiscalizacion.DTOs.csproj",
+        "projectName": "MorCompany.Fiscalizacion.DTOs",
+        "projectPath": "D:\\Proyectos\\MorCompany\\MorCompany-Fiscalizacion-BackEnd\\MorCompany.Fiscalizacion.DTOs\\MorCompany.Fiscalizacion.DTOs.csproj",
+        "packagesPath": "C:\\Users\\Moncky\\.nuget\\packages\\",
+        "outputPath": "D:\\Proyectos\\MorCompany\\MorCompany-Fiscalizacion-BackEnd\\MorCompany.Fiscalizacion.DTOs\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Moncky\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Proyectos\\MorCompany\\MorCompany-Fiscalizacion-BackEnd\\MorCompany.Fiscalizacion.Negocio\\MorCompany.Fiscalizacion.Negocio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Proyectos\\MorCompany\\MorCompany-Fiscalizacion-BackEnd\\MorCompany.Fiscalizacion.Negocio\\MorCompany.Fiscalizacion.Negocio.csproj",
+        "projectName": "MorCompany.Fiscalizacion.Negocio",
+        "projectPath": "D:\\Proyectos\\MorCompany\\MorCompany-Fiscalizacion-BackEnd\\MorCompany.Fiscalizacion.Negocio\\MorCompany.Fiscalizacion.Negocio.csproj",
+        "packagesPath": "C:\\Users\\Moncky\\.nuget\\packages\\",
+        "outputPath": "D:\\Proyectos\\MorCompany\\MorCompany-Fiscalizacion-BackEnd\\MorCompany.Fiscalizacion.Negocio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Moncky\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Proyectos\\MorCompany\\MorCompany-Fiscalizacion-BackEnd\\MorCompany.Fiscalizacion.Datos\\MorCompany.Fiscalizacion.Datos.csproj": {
+                "projectPath": "D:\\Proyectos\\MorCompany\\MorCompany-Fiscalizacion-BackEnd\\MorCompany.Fiscalizacion.Datos\\MorCompany.Fiscalizacion.Datos.csproj"
+              },
+              "D:\\Proyectos\\MorCompany\\MorCompany-Fiscalizacion-BackEnd\\MorCompany.Fiscalizacion.DTOs\\MorCompany.Fiscalizacion.DTOs.csproj": {
+                "projectPath": "D:\\Proyectos\\MorCompany\\MorCompany-Fiscalizacion-BackEnd\\MorCompany.Fiscalizacion.DTOs\\MorCompany.Fiscalizacion.DTOs.csproj"
+              },
+              "D:\\Proyectos\\MorCompany\\MorCompany-Fiscalizacion-BackEnd\\MorCompany.Fiscalizacion.Utilidades\\MorCompany.Fiscalizacion.Utilidades.csproj": {
+                "projectPath": "D:\\Proyectos\\MorCompany\\MorCompany-Fiscalizacion-BackEnd\\MorCompany.Fiscalizacion.Utilidades\\MorCompany.Fiscalizacion.Utilidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Proyectos\\MorCompany\\MorCompany-Fiscalizacion-BackEnd\\MorCompany.Fiscalizacion.Utilidades\\MorCompany.Fiscalizacion.Utilidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Proyectos\\MorCompany\\MorCompany-Fiscalizacion-BackEnd\\MorCompany.Fiscalizacion.Utilidades\\MorCompany.Fiscalizacion.Utilidades.csproj",
+        "projectName": "MorCompany.Fiscalizacion.Utilidades",
+        "projectPath": "D:\\Proyectos\\MorCompany\\MorCompany-Fiscalizacion-BackEnd\\MorCompany.Fiscalizacion.Utilidades\\MorCompany.Fiscalizacion.Utilidades.csproj",
+        "packagesPath": "C:\\Users\\Moncky\\.nuget\\packages\\",
+        "outputPath": "D:\\Proyectos\\MorCompany\\MorCompany-Fiscalizacion-BackEnd\\MorCompany.Fiscalizacion.Utilidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Moncky\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

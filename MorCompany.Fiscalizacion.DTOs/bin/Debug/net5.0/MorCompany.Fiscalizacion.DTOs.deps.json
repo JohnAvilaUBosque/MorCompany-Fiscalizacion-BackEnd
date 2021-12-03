@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MorCompany.Fiscalizacion.DTOs/1.0.0": {
+        "runtime": {
+          "MorCompany.Fiscalizacion.DTOs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MorCompany.Fiscalizacion.DTOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

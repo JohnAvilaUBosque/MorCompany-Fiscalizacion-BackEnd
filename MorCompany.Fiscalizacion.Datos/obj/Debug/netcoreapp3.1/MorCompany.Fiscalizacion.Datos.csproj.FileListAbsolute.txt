@@ -1,0 +1,10 @@
+D:\Proyectos\MorCompany\MorCompany-Fiscalizacion-BackEnd\MorCompany.Fiscalizacion.Datos\bin\Debug\netcoreapp3.1\MorCompany.Fiscalizacion.Datos.deps.json
+D:\Proyectos\MorCompany\MorCompany-Fiscalizacion-BackEnd\MorCompany.Fiscalizacion.Datos\bin\Debug\netcoreapp3.1\MorCompany.Fiscalizacion.Datos.dll
+D:\Proyectos\MorCompany\MorCompany-Fiscalizacion-BackEnd\MorCompany.Fiscalizacion.Datos\bin\Debug\netcoreapp3.1\MorCompany.Fiscalizacion.Datos.pdb
+D:\Proyectos\MorCompany\MorCompany-Fiscalizacion-BackEnd\MorCompany.Fiscalizacion.Datos\obj\Debug\netcoreapp3.1\MorCompany.Fiscalizacion.Datos.csproj.AssemblyReference.cache
+D:\Proyectos\MorCompany\MorCompany-Fiscalizacion-BackEnd\MorCompany.Fiscalizacion.Datos\obj\Debug\netcoreapp3.1\MorCompany.Fiscalizacion.Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\MorCompany\MorCompany-Fiscalizacion-BackEnd\MorCompany.Fiscalizacion.Datos\obj\Debug\netcoreapp3.1\MorCompany.Fiscalizacion.Datos.AssemblyInfoInputs.cache
+D:\Proyectos\MorCompany\MorCompany-Fiscalizacion-BackEnd\MorCompany.Fiscalizacion.Datos\obj\Debug\netcoreapp3.1\MorCompany.Fiscalizacion.Datos.AssemblyInfo.cs
+D:\Proyectos\MorCompany\MorCompany-Fiscalizacion-BackEnd\MorCompany.Fiscalizacion.Datos\obj\Debug\netcoreapp3.1\MorCompany.Fiscalizacion.Datos.csproj.CoreCompileInputs.cache
+D:\Proyectos\MorCompany\MorCompany-Fiscalizacion-BackEnd\MorCompany.Fiscalizacion.Datos\obj\Debug\netcoreapp3.1\MorCompany.Fiscalizacion.Datos.dll
+D:\Proyectos\MorCompany\MorCompany-Fiscalizacion-BackEnd\MorCompany.Fiscalizacion.Datos\obj\Debug\netcoreapp3.1\MorCompany.Fiscalizacion.Datos.pdb
